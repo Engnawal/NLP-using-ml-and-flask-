@@ -17,3 +17,5 @@ Is to build a multi-class classifier web app using flask that can classify text 
 
 ![Screenshot 2022-08-04 141228](https://user-images.githubusercontent.com/94877868/182847771-30b219ac-496e-44fd-b747-a7d5ec4f312c.png)
 
+![image](https://user-images.githubusercontent.com/94877868/182863803-a915a7eb-f65b-4398-89ab-473bed0003d8.png)
+
